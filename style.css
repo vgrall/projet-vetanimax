@@ -1,0 +1,121 @@
+* {
+    font-family: 'Roboto Flex', sans-serif;
+    color: #757575;
+    background: #EDEDED;
+    
+}
+
+main {
+    text-align: justify;
+}
+
+.fluo{
+    color: #800000;
+}
+
+.logo{
+    margin-left: 7%;
+}
+
+
+
+body.container{
+    background: #EDEDED;
+    color: #757575;
+    font-family: 'Roboto Flex', sans-serif;
+    
+}
+
+.element-historique {
+   
+    margin-top: 1.5%;
+}
+
+.cadre {
+
+    font-family: arial,helvetica,sans-serif;
+    
+    margin-top: 1.5%;
+}
+
+a, a.nav-link {
+    color: #757575 ;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+   
+
+}
+
+h1 {
+
+    font-family: 'Roboto', sans-serif;
+    font-size:30px;
+    color: #D91C2B;
+    margin-top: 5%;
+    
+    
+}
+
+h2 {
+    color:#D91C2B;
+   
+    font-family: 'Roboto', sans-serif;
+    font-size: 20.4px;
+   
+    margin-top: 1.5%;
+}
+
+.discipline {
+    color:#757575;
+   font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 3%;
+
+
+
+.nav-link{
+    font-size: 1.2rem;
+}
+
+
+
+.banniere {
+  
+text-decoration: none;
+text-align: center;
+color: #757575;
+font-size: 1.05rem; 
+
+    
+}
+
+
+
+ .banniere:hover{
+    
+    text-decoration: none;
+    color: white;
+  
+}
+
+
+.hero {
+    
+    text-align: center;
+    
+   
+}
+
+
+
+.container-fluid{
+  
+    
+    justify-content: center;
+    margin: 0 5% 0 10%;
+
+}
+
+
+
